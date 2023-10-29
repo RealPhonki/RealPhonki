@@ -20,4 +20,4 @@
 
 Find me on the Python Discord Server - https://discord.com/invite/python
 
-Discord Tag - `Phonki#0090`
+Discord Tag - `Phonki#0090`, `slamsandwich19`
