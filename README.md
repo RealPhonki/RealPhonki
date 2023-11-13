@@ -12,7 +12,7 @@
 ## About me
 
 - I write object oriented python. As of 2023 I have roughly four years of experience with python.
-- For game design I use the *Factory Method* and *Facade* patterns
+- I usually use the *Factory Method pattern* and the *Facade pattern* which makes discord bot programming extremely uncomfortable for me.
 - I know a little bit of the following: `javascript`, `css`, `html`, `java`
 
 ## Meta
